@@ -1,0 +1,1 @@
+Take the contents of the Variable Band EQ file and put them in a notepad doc and save them. Bring that file into the config folder and save it/paste it there. Go into APO and click the folder icon in the inlcude.txt GUI and select the file. Have fun.
